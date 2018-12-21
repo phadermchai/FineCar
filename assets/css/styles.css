@@ -1,0 +1,16 @@
+.IntroHead {
+  padding-top:30px;
+  text-align:center;
+}
+
+#SearchSec {
+  text-align:center;
+  padding:50px;
+  background-image:url("../../assets/img/drive.jpg");
+  background-size:cover;
+}
+
+#SearchSec .jumbotron {
+  border-radius:20px;
+}
+
